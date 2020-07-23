@@ -1,0 +1,1 @@
+var myName="Farman ul haq"
